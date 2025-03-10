@@ -1,0 +1,14 @@
+{
+  "API_ID": "your_api_id",
+  "API_HASH": "your_api_hash",
+  "STRING_SESSIONS": [
+    "your_string_session_1",
+    "your_string_session_2"
+  ],
+  "ALERT_CHANNEL": "your_alert_channel",
+  "ADMIN_USERS": [
+    "adminUser1",
+    "adminUser2"
+  ],
+  "BOT_TOKEN": "your_bot_token"
+}
